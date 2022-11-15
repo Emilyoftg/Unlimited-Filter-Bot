@@ -16,7 +16,7 @@ class Config(object):
     
     
     # Database URL from https://cloud.mongodb.com/
-    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://btech:btech@cluster0.2cxlb.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://filter:filter@cluster0.pvhg1yf.mongodb.net/?retryWrites=true&w=majority")
 
 
     # Your database name from mongoDB
